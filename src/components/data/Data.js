@@ -72,7 +72,7 @@ export const list = [
   },
   {
     id: 3,
-    cover: "https://funny-daffodil-350bc9.netlify.app/images/list/p-3.png",
+    cover: "https://funny-daffodil-350bc9.netlify.app/images/list/p-7.png",
     name: "The Real Estate Corner",
     location: "5624 Mooker Market, USA",
     category: "For Rent",
