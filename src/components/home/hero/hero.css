@@ -1,5 +1,6 @@
 .hero {
-    background-image: url("../../../../public/images/banner.png");
+    background-image: url('https://funny-daffodil-350bc9.netlify.app/static/media/banner.1a3c8a0a448e8e24f6a0.png');
+    /*https://i.ibb.co/P5y0LtS/banner.jpg*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
