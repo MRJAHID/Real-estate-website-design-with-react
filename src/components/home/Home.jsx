@@ -3,6 +3,7 @@ import Hero from "./hero/Hero";
 import Featured from "./featured/Featured";
 import Recent from "./recent/Recent";
 import Award from "./award/Award";
+import Location from "./location/Location";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Featured />
       <Recent />
       <Award />
+      <Location />
     </>
   );
 };
