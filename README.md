@@ -2,204 +2,82 @@
 <br/>
 
 # RentUp - Residence & Real Estate Website &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
 
-A brief description of your project, what it is used for.
 
-## Installing / Getting started
+<p align="center">
+  <a href="https://real-estate-de155.web.app/">
+    <img src="https://i.ibb.co/9WwBnpN/Screenshot-from-2023-04-04-17-17-17.png" alt="Project Name">
+  </a>
+</p>
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+<br>
 
-```shell
-npm install
-```
 
-Here you should say what actually happens when you execute the code above.
+## Table of contents
+- [About the Website](#about-the-website)
+- [Technical](#technical)
+- [Versions](#versions)
+- [Contact Information](#contact-information)
 
-## Developing
 
-### Built With
-List main libraries, frameworks used including versions (React, MaterialUI etc...)
 
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+### About the website
 
+ RentUp - Residence & Real Estate Website &middot;
 
-### Setting up Dev
+#### Hosted?
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+Yes! This template is hosted on live.
 
-```shell
-git clone https://github.com/MRJAHID/Real-estate-website-design-with-react.git
-cd your-project/
-npm install
-```
+Link One : https://real-estate-de155.web.app/  <br>
 
-And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
-### Building
+### Technical
+#### Technology Used
+This project uses:
+  - Html
+  - Css
+  - Javascript
+  - React
 
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here. for example:
+#### Running the project
 
-```shell
-./configure
-make
-make install
-```
+You can:
+    a. clone the project and compile it yourself (Most up to date)
+    
+    
+## Screenshots
 
-Here again you should state what actually happens when the code above gets
-executed.
+![App Screenshot](https://i.ibb.co/6tjMJk0/Screenshot-from-2023-04-04-17-17-24.png)
+![App Screenshot](https://i.ibb.co/C2t6Jhg/Screenshot-from-2023-04-04-17-17-31.png)
 
-### Deploying / Publishing
-give instructions on how to build and release a new version
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
 
-```shell
-packagemanager deploy your-project -s server.com -u username -p password
-```
 
-And again you'd need to tell what the previous code actually does.
+#### CONTRIBUTING
 
-## Versioning
+I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
+<hr>
 
 
-## Configuration
+## Authors
 
-Here you should write what are all of the configurations a user can enter when using the project.
+- [@MRJAHID](https://www.github.com/mrjahid)
 
-## Tests
 
-Describe and show how to run the tests with code examples.
-Explain what these tests test and why.
+### Versions
+* Version 1.0  
 
-```shell
-Give an example
-```
 
-## Style guide
+### Contact Information
 
-Explain your code style and show how to check it.
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/mrjahid) to report them.
 
-## Api Reference
+<hr>
 
-If the api is external, link to api documentation. If not describe your api including authentication methods as well as explaining all the endpoints with their required parameters.
+<br>
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/mrjahid)
 
-## Database
 
-Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
 
-## Licensing
-
-State what the license is and how to find the text version of the license.
-<img src="./images/logo.sample.png" alt="Logo of the project" align="right">
-
-# Name of the project &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
-
-A brief description of your project, what it is used for.
-
-## Installing / Getting started
-
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
-```shell
-commands here
-```
-
-Here you should say what actually happens when you execute the code above.
-
-## Developing
-
-### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
-
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
-
-
-### Setting up Dev
-
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
-```shell
-git clone https://github.com/your/your-project.git
-cd your-project/
-packagemanager install
-```
-
-And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
-
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here. for example:
-
-```shell
-./configure
-make
-make install
-```
-
-Here again you should state what actually happens when the code above gets
-executed.
-
-### Deploying / Publishing
-give instructions on how to build and release a new version
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```shell
-packagemanager deploy your-project -s server.com -u username -p password
-```
-
-And again you'd need to tell what the previous code actually does.
-
-## Versioning
-
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
-
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when using the project.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-Explain what these tests test and why.
-
-```shell
-Give an example
-```
-
-## Style guide
-
-Explain your code style and show how to check it.
-
-## Api Reference
-
-If the api is external, link to api documentation. If not describe your api including authentication methods as well as explaining all the endpoints with their required parameters.
-
-
-## Database
-
-Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
-
-## Licensing
-
-The MIT License (MIT)
-Copyright (c) 2018 Elsewhen https://www.elsewhen.com
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
